@@ -4,7 +4,7 @@
 
 <p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=nithin-gith)
+![](https://visitor-badge.glitch.me/badge?page_id=nithin-gith.nithin-gith)
     <a href="https://github.com/nithin-gith/"><img src="https://img.shields.io/github/followers/nithin-gith?style=social"/></a>
 
 </p>
