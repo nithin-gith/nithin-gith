@@ -49,7 +49,7 @@ I am a Third year undergraduate student at IIT Kharagpur. I am currently Explori
     &nbsp;
     <a href="mailto:nithin.siriguppa@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Email logo" title="Email" height="25" /><a>
     &nbsp;
-    <a href="https://instagram.com/nithin_siriguppa" ><img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=e95950" alt="Instagram logo" title="Instagram" height="25" /><a>
+    <a href="https://twitter.com/SiriguppaNithin" ><img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=e95950" alt="Instagram logo" title="Instagram" height="25" /><a>
     &nbsp;
     <a href="https://www.facebook.com/nithin.siriguppa/" ><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=4267b2" alt="Facebook logo" title="Facebook" height="25" /><a>
     &nbsp;
