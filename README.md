@@ -9,10 +9,10 @@
 
 </p>
 
-I am a Third year undergraduate student at IIT Kharagpur. I am currently Exploring more Web Development and starting with Competetive Programming.
+I am a Third year undergraduate student at IIT Kharagpur. 
 
 - 🔭 Learning new Technologies.
-- 💬 I like to talk about new Tech.
+- 💬 I like to talk about Tech.
 
 
 <h2><b>💻 Tech Stack</b></h2>
